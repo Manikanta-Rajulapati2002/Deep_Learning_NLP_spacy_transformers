@@ -1,6 +1,7 @@
 # 🧠 Home Assignment 4 – CS5720: Neural Networks and Deep Learning  
 **University of Central Missouri – Spring 2025**  
-**Student Name:** Manikanta Rajulapati 
+**Student Name:** Manikanta Rajulapati
+
 **Course:** CS5720  
 
 
