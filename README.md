@@ -109,3 +109,33 @@ Given an input sentence, the model predicts whether the sentiment is **positive*
 ### 📤 Expected Output:
 Sentiment: POSITIVE
 Confidence Score: 0.9987
+
+
+# ✅ Q4: Sentiment Analysis using HuggingFace Transformers  
+  ---
+
+## 📌 Overview
+
+This task demonstrates the use of a **pre-trained sentiment analysis pipeline** from HuggingFace’s `transformers` library.  
+The goal is to classify the sentiment of a given sentence as **positive** or **negative**, and provide a **confidence score**.
+
+---
+
+## ✔️ Objective
+
+The following steps are performed in this task:
+
+- Load a **pre-trained sentiment classifier** using HuggingFace’s `pipeline()` API  
+- Analyze the sentiment of a given English sentence  
+- Print the **sentiment label** and **confidence score**
+
+---
+
+## 🧪 Input Sentence
+
+```text
+Despite the high price, the performance of the new MacBook is outstanding.
+
+Output:
+Sentiment: POSITIVE
+Confidence Score: 0.9987
